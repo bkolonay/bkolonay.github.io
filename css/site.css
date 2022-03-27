@@ -1,0 +1,12 @@
+.clear {
+	clear: both;
+}
+
+.ui.footer.segment {
+	margin: 5em 0em 0em;
+	padding: 5em 0em;
+}
+
+.inverted > .text {
+	color: rgba(255,255,255,.5)
+}
